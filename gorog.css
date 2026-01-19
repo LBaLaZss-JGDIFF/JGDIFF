@@ -1,0 +1,21 @@
+#gomb2{
+    margin-left: 10%;
+}
+#gomb1{
+    margin-left: 10%;
+}
+#szinhkep{
+    margin-left: 28%;
+}
+#kozep{
+    border: solid 5px #84C4C4;
+    border-radius: 5px;
+    padding: 3px;
+    background-color: #C4A484;
+}
+body{
+    background-color: lch(60.09% 28.77 92.77);
+}
+.h2{
+    width: 10px;
+}
